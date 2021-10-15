@@ -1,0 +1,9 @@
+{
+        "id": 2,
+        "categories":"Breakfast",
+        "name": "Breakfasr sandwich",
+        "thumb": "https://i.ibb.co/GvTmFcG/breakfast2.png",
+        "price": 9.99,
+        "rating": 4.8,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit distinctio voluptas quis saepe aliquid, quidem eos minus fugit? Voluptatum praesentium esse ad officia quas illum! Adipisci vero labore fugiat beatae?"
+}
