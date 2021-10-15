@@ -1,5 +1,6 @@
 {
     "id": 15,
+    "categories":"Dinner",
     "name": "Chicken Tenderloin",
     "thumb": "https://i.ibb.co/x55WJ3g/dinner3.png",
     "price": 12.99,
