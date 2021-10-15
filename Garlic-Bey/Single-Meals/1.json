@@ -1,0 +1,9 @@
+{
+        "id": 1,
+        "categories":"Breakfast",
+        "name": "Bagel and cream cheese",
+        "thumb": "https://i.ibb.co/BKXXYTR/breakfast1.png",
+        "price": 6.99,
+        "rating": 4.7,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit distinctio voluptas quis saepe aliquid, quidem eos minus fugit? Voluptatum praesentium esse ad officia quas illum! Adipisci vero labore fugiat beatae?"
+ }
