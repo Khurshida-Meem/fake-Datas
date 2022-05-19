@@ -101,7 +101,7 @@
 {
     "key": 10,
     "image": "https://i.ibb.co/NFwpHb3/product-3-1.jpg",
-    "category": "Snack",
+    "category": "Vegetables",
     "title": "Seeds of Change Organic Quinoa, Brown, & Red Rice",
     "rating": 4,
     "vendor": "NestFood",
@@ -112,7 +112,7 @@
 {
     "key": 11,
     "image": "https://i.ibb.co/NFwpHb3/product-4-1.jpg",
-    "category": "Snack",
+    "category": "Vegetables",
     "title": "Seeds of Change Organic Quinoa, Brown, & Red Rice",
     "rating": 4,
     "vendor": "NestFood",
@@ -123,7 +123,7 @@
 {
     "key": 12,
     "image": "https://i.ibb.co/NFwpHb3/product-5-1.jpg",
-    "category": "Snack",
+    "category": "Vegetables",
     "title": "Chobani Complete Vanilla Greek Yogurt",
     "rating": 4,
     "vendor": "NestFood",
