@@ -6,7 +6,7 @@
         "title": "Seeds of Change Organic Quinoa, Brown, & Red Rice",
         "rating": 4,
         "vendor": "NestFood",
-        "price": 28.85,
+        "price": 8.85,
         "available": 220,
         "sold": 82
     },
@@ -28,9 +28,9 @@
         "title": "Canada Dry Ginger Ale 2 L Bottle - 200ml - 400g",
         "rating": 4,
         "vendor": "NestFood",
-        "price": 28.85,
+        "price": 68.85,
         "available": 200,
-        "sold": 100
+        "sold": 190
     },
     {
         "key": 2,
@@ -41,7 +41,7 @@
         "vendor": "Stouffer",
         "price": 52.85,
         "available": 220,
-        "sold": 62
+        "sold": 210
     },
     {
         "key": 11,
@@ -50,7 +50,7 @@
         "title": "Seeds of Change Organic Quinoa, Brown, & Red Rice",
         "rating": 4,
         "vendor": "NestFood",
-        "price": 28.85,
+        "price": 2.85,
         "available": 200,
         "sold": 100
     },
@@ -61,9 +61,9 @@
         "title": "Encore Seafoods Stuffed Alaskan Salmon",
         "rating": 4,
         "vendor": "NestFood",
-        "price": 28.85,
+        "price": 8.85,
         "available": 200,
-        "sold": 100
+        "sold": 130
     },
     {
         "key": 3,
